@@ -1,3 +1,5 @@
+
+# Projeto em construção ⚠️
 # 🌐 Infraestrutura como Código Multicloud com Terraform
 
 Este projeto demonstra como provisionar uma infraestrutura equivalente nas nuvens **AWS** e **GCP** usando **Terraform**, com foco em modularização, ambientes separados (dev/staging/prod), backend remoto e integração com CI/CD.
